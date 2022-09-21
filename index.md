@@ -2,7 +2,7 @@
 
 [My Github Page](index.html)
 
-[My Github Page 2](https://edwinlaumack.github.io/cse15l-lab-reports/index.html
+[My Github Page 2](https://edwinlaumack.github.io/cse15l-lab-reports-fa22/index.html
 )
 
 ## This is me :) 
@@ -17,7 +17,7 @@
 
 ## Information about me
 
-[My Linkedin](https://www.linkedin.com/in/edwin-lau-mack-625854222/)
+[My Linkedin](https://www.linkedin.com/in/edwinlaumack)
 
 ## Favorite Quote
 
@@ -26,9 +26,9 @@
 
 ## To do
 
-* Finish CSE 140 Homework
-* Finish CSE 120 Homework
-* Start CSE 130 Homework
+* Finish CSE 124 Homework
+* Finish CSE 132A Homework
+* Start EDS AR124 Homework
 
 ## Trying out the Horizontal Rule
 
