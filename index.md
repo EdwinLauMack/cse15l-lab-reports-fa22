@@ -7,7 +7,7 @@
 
 ## This is me before getting fat :(
 
-<img src="Foto.jpg" alt="drawing" width="200"/>
+<img src="Photo.jpg" alt="drawing" width="200"/>
 
 ## Using italics and bold
 
