@@ -2,8 +2,7 @@
 
 [My Github Page](index.html)
 
-[My Github Page 2](https://edwinlaumack.github.io/cse15l-lab-reports-fa22/index.html
-)
+[My Github Page 2](https://edwinlaumack.github.io/cse15l-lab-reports-fa22/index.html)
 
 ## This is me :) 
 
