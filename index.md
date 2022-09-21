@@ -5,7 +5,7 @@
 [My Github Page 2](https://edwinlaumack.github.io/cse15l-lab-reports/index.html
 )
 
-## This is me before getting fat :(
+## This is me :) 
 
 <img src="Photo.jpg" alt="drawing" width="200"/>
 
